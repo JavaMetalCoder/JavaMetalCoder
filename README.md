@@ -17,7 +17,7 @@
   - Anything tech-related that pushes my skills further
 
 - 📫 How to reach me:
-  - Email: fabiozagaria@example.com
+  - Email: fabiozagaria1999@gmail.com
   - Telegram: t.me/MetalCoderJar
     
 - 😄 Pronouns: He/Him
