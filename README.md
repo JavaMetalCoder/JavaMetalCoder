@@ -3,13 +3,12 @@
 - 👀 I’m interested in:
   - Programming, especially back-end development with Java
   - Android development
-  - Python (just started learning it)
   - Technology in general, including PCs, smartphones, and video games
 
 - 🌱 I’m currently learning:
   - Advanced Java techniques
   - Android development
-  - Python programming
+  - HTML, CSS, JS
 
 - 💞️ I’m looking to collaborate on:
   - Complex and challenging programming projects
